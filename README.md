@@ -23,7 +23,7 @@
 
 Как использовать настроенный бот:
 
--Установите на своф смартфон приложение Sticker Maker.
+-Установите на свое устройство приложение Sticker Maker.
 
 	Версия для Google Play (Android) https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsapp
 	
